@@ -28,7 +28,7 @@ except ValueError:
     print("I said a number")
     num_2 = False
 
-
+# second function deciding if user inputted numbers
 def calculator():
     if num_1 and num_2:
         print("Your input: " + input_1 + " " + symbol + " " + input_2)
