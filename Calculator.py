@@ -1,3 +1,4 @@
+# evaluating result based on operation
 def operations():
     if symbol.upper() == "PLUS" or symbol == "+":
         return print(num_1 + num_2)
